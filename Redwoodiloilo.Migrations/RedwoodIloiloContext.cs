@@ -9,6 +9,7 @@ namespace Redwoodiloilo.Migrations
             : base(options) { }
 
         public DbSet<GuestMessage> GuestMessages { get; set; }
+        public DbSet<GuestPayment> GuestPayments { get; set; }
         public DbSet<GuestResponse> GuestResponses { get; set; }
         public DbSet<Config> Configs { get; set; }
 
