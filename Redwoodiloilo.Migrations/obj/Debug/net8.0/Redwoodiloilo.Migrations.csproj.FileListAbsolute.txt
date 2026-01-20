@@ -1,0 +1,17 @@
+D:\src\EFMigrations\Redwoodiloilo.Migrations\bin\Debug\net8.0\Redwoodiloilo.Migrations.deps.json
+D:\src\EFMigrations\Redwoodiloilo.Migrations\bin\Debug\net8.0\Redwoodiloilo.Migrations.runtimeconfig.json
+D:\src\EFMigrations\Redwoodiloilo.Migrations\bin\Debug\net8.0\Redwoodiloilo.Migrations.dll
+D:\src\EFMigrations\Redwoodiloilo.Migrations\bin\Debug\net8.0\Redwoodiloilo.Migrations.pdb
+D:\src\EFMigrations\Redwoodiloilo.Migrations\obj\Debug\net8.0\Redwoodiloilo.Migrations.csproj.AssemblyReference.cache
+D:\src\EFMigrations\Redwoodiloilo.Migrations\obj\Debug\net8.0\Redwoodiloilo.Migrations.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\EFMigrations\Redwoodiloilo.Migrations\obj\Debug\net8.0\Redwoodiloilo.Migrations.AssemblyInfoInputs.cache
+D:\src\EFMigrations\Redwoodiloilo.Migrations\obj\Debug\net8.0\Redwoodiloilo.Migrations.AssemblyInfo.cs
+D:\src\EFMigrations\Redwoodiloilo.Migrations\obj\Debug\net8.0\Redwoodiloilo.Migrations.csproj.CoreCompileInputs.cache
+D:\src\EFMigrations\Redwoodiloilo.Migrations\obj\Debug\net8.0\Redwoodiloilo.Migrations.dll
+D:\src\EFMigrations\Redwoodiloilo.Migrations\obj\Debug\net8.0\refint\Redwoodiloilo.Migrations.dll
+D:\src\EFMigrations\Redwoodiloilo.Migrations\obj\Debug\net8.0\Redwoodiloilo.Migrations.pdb
+D:\src\EFMigrations\Redwoodiloilo.Migrations\obj\Debug\net8.0\Redwoodiloilo.Migrations.genruntimeconfig.cache
+D:\src\EFMigrations\Redwoodiloilo.Migrations\obj\Debug\net8.0\ref\Redwoodiloilo.Migrations.dll
+D:\src\EFMigrations\Redwoodiloilo.Migrations\bin\Debug\net8.0\RedwoodIloilo.Common.Entities.dll
+D:\src\EFMigrations\Redwoodiloilo.Migrations\bin\Debug\net8.0\RedwoodIloilo.Common.Entities.pdb
+D:\src\EFMigrations\Redwoodiloilo.Migrations\obj\Debug\net8.0\Redwoodi.3620877F.Up2Date
